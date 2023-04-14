@@ -8,7 +8,7 @@ import preact from "@astrojs/preact";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://VedantPol.gitihub.io',
+  site: 'https://VedantPol.github.io',
   base: '/tnp-website',
   integrations: [
     tailwind(),
